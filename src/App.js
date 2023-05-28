@@ -1,7 +1,7 @@
 import Footer from "./components/Footer";
 // import Navbar from "./components/Navbar";
 import Navbar from "./components/Navbar/Navbar";
-// import Ourservices from "./components/basiccomp/Ourservices";
+import Ourservices from "./components/basiccomp/Ourservices";
 import Sponser from "./components/basiccomp/Sponser";
 import Longcard from "./components/basiccomp/Longcard";
 import Ourmission from "./components/writenpart/Ourmission";
@@ -14,8 +14,8 @@ function App() {
     <>
       <Navbar />
       <ImgSlider />
-      <Cards />
-      {/* <Ourservices /> */}
+      {/* <Cards /> */}
+      <Ourservices />
       <Ourmission />
       <Longcard />
       <Sponser />
