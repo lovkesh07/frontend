@@ -4,7 +4,7 @@ const Ourmission = () => {
   return (
     <>
     <div className="bg-blue-200 p-4 lg:p-16">
-        <div className="mx-auto lg:p-16">
+        <div className="mx-auto  lg:p-16">
         <p className="text-2xl"> Our mission</p>
         <p className=" text-6xl font-medium" >
         To be the trusted digital partner and drive transformational outcomes for our customers, and empower our employees to achieve their full potential.

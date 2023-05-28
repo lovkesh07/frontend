@@ -17,37 +17,37 @@ import { MdArrowForward, MdCall } from "react-icons/md";
 export const content = {
 
   skills: {
-    title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    title: "Our services",
+    subtitle: "We leverage technology to digitally transform companies.",
     skills_content: [
       {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
-        // logo: figma,
+        name: "Digital Experience",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
+        logo: "",
       },
       {
-        name: "Node js",
-        para: "Lorem ipsum text  dummy",
+        name: "Product Engineering",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
         // logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        name: "Data Engineering & AI ",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
         // logo: ps,
       },
       {
-        name: "React js",
-        para: "Lorem ipsum text  dummy",
+        name: "Cloud Engineering",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
         // logo: reactjs,
       },
       {
-        name: "Sketch",
-        para: "Lorem ipsum text  dummy",
+        name: "NextGen Services",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
         // logo: sketch,
       },
       {
-        name: "Python",
-        para: "Lorem ipsum text  dummy",
+        name: "SAP Services",
+        para: "To be the trusted digital partner and drive transformational outcomes for our customers, and empower",
         // logo: python,
       },
     ],
