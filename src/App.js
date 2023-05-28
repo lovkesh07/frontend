@@ -14,8 +14,8 @@ function App() {
     <>
       <Navbar />
       <ImgSlider />
-      {/* <Cards /> */}
-      <Ourservices />
+      <Cards />
+      {/* <Ourservices /> */}
       <Ourmission />
       <Longcard />
       <Sponser />
