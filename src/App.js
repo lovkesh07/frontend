@@ -8,6 +8,7 @@ import Ourmission from "./components/writenpart/Ourmission";
 import Cards from "./components/Cards";
 import { Testimonials } from "./components/Testimonial/Testimonials";
 import ImgSlider from "./components/ImgSlider";
+import InsightSection from "./components/InsightSection";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Longcard />
       <Sponser />
       <Testimonials />
+      <InsightSection />
       <Footer />
     </>
   );
